@@ -4,7 +4,6 @@
 
 <p align="left"></p>
 My name is Nikhil Garuda and I am an undergraduate studying Astronomy at the University of Arizona. I mainly study gravitational lensing with the James Webb Space Telescope and also do MLxAstronomy!
-###
 
 <h2 align="left">I code with</h2>
 
